@@ -2,6 +2,8 @@
 
 Dark [Omarchy](https://omarchy.org/) theme built on the Sakurazuki palette, featuring a 4K dragon wallpaper and a seamless silent 4K video intro powered by Omarchy's wallpaper engine (`owe`).
 
+![Modern Dragon Desktop Preview](preview/desktop.jpg)
+
 ![Modern Dragon Wallpaper](backgrounds/JSD.png)
 
 ## Installation
